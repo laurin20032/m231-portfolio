@@ -1,3 +1,5 @@
+Warum ich mich für Bitwarden entschieden habe:
+
 Bitwarden benutz eine der sichersten Verschlüsslungen für Ihre Passwörter (AES-CBC 256-bit) (PBKDF2 SHA-25) Quelle:  https://bitwarden.com/de-DE/help/what-encryption-is-used/
 Bitwarden macht automatisch starke Passwörter. Mann kan sogar Online ein Starkes Passwor Generieren Quelle:https://bitwarden.com/de-DE/password-generator/
 Da Bitwarden kostenlos verwendet werden kann und über eine Open-Source-Codebasis verfügt, kann die Community es ausprobieren und Verbesserungen vornehmen. Quelle: https://bitwarden.com/de-DE/open-source/
