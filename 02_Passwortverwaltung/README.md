@@ -1,6 +1,6 @@
 # Warum ich mich für Bitwarden entschieden habe:
 
-Bitwarden benutz eine der sichersten Verschlüsslungen für Ihre Passwörter (AES-CBC 256-bit) (PBKDF2 SHA-25) 
+Bitwarden benutzt eine der sichersten Verschlüsslungen für Ihre Passwörter (AES-CBC 256-bit) (PBKDF2 SHA-25) 
 <br>Quelle:  https://bitwarden.com/de-DE/help/what-encryption-is-used/
 
 Bitwarden macht automatisch starke Passwörter. 
