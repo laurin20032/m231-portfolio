@@ -36,8 +36,10 @@ Charlie möchte gerne Git einsetzen. Doch Luca findet Git doof und will unbeding
 Mit welchen Sach-Argumenten könnte Charlie versuchen Luca zu überzeugen? Listen Sie entsprechende Argumente auf und belegen Sie Ihre Aussagen mit Quellenverweisen (Links). 
 
 ---
+
 Man kann Gratis gegen seitig Projekte Supporten
 
+---
 
 
 ## Kapitel 3 - Das Fiasko
@@ -61,8 +63,9 @@ Nach dem Fiasko hat sich Luca von Charlie überzeugen lassen, doch ein gemeinsam
 
 Welche Funktion von Git kann Charlie dabei helfen?
 
+---
 
-
+Sie können einen neuen Branch erstellen, indem Sie git checkout (Branch name) ausführen. Dadurch können zwei völlig unterschiedliche Codes im selben Repository gespeichert werden. Mit Hilfe von Forks ist es möglich, an einem Repository zu arbeiten, und Push Requests ermöglichen es, meinen Code im ursprünglichen Repository zu beantragen, damit er benutzt wird.
 
 
 ---
