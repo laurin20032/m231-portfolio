@@ -16,7 +16,6 @@ Kopieren Sie dazu diese Markdown Datei in ihr persönliches Repository. Ihre Ant
 ---
 
 ## Kapitel 1 - Die gemeinsame Quiz Applikation
-![Luca und Charlie Teil 1](images/LucaCharlieTeil1.PNG)
 
 Luca und Charlie wollen gemeinsam eine Quiz Applikation entwickeln. Charlie hat bereits begonnen und seinen Quellcode als ZIP Datei an Luca geschickt. Charlie programmiert am Quellcode weiter. Inzwischen programmiert auch Luca weiter. Als sich die beiden bei einem Meeting treffen, zeigen sie sich gegenseitig ihre Weiterentwicklungen. Luca erklärt sich bereit die beiden Varianten zusammenzuführen. Für diese Arbeit benötigt Luca jedoch ein paar Stunden. Charlie ist ungeduldig und möchte weiter programmieren. 
 
@@ -29,7 +28,6 @@ Zusammenarbeiten Online
 ---
 
 ## Kapitel 2 - Die Diskussion
-![Luca und Charlie Teil 2](images/LucaCharlieTeil2.PNG)
 
 Charlie möchte gerne Git einsetzen. Doch Luca findet Git doof und will unbedingt mit Boxdrop (Platzhalter für *Filesharing*-Dienste wie Google Drive, Dropbox, OneDrive, usw.) arbeiten. "Das sei viel einfacher. Man müsse nicht ständig wie bei Git *commit messages* schreiben und die Dateien werden automatisch synchronisiert.", argumentiert Luca. Luca schlägt vor, dass er einen Ordner einrichtet und dort den Quellcode der Applikation ablegt. Charlie findet das eine doofe Idee und möchte viel lieber auf GitLab ein gemeinsames Repository erstellen. "Dieses Tool wird von Softwareentwicklern weltweit eingesetzt", meint Charlie.
 
@@ -43,7 +41,6 @@ Man kann Gratis gegen seitig Projekte Supporten
 
 
 ## Kapitel 3 - Das Fiasko
-![Luca und Charlie Teil 3](images/LucaCharlieTeil3.PNG)
 
 Luca hat bei der Diskussion *Gitlab vs Boxdrop* gewonnen. Die beiden arbeiten nun mit Boxdrop. Charlie ist überhaupt nicht glücklich damit, aber sie hat es aufgegeben mit Luca zu streiten. Für sich selbst hat Charlie sich ein Git-Repository eingerichtet und kopiert die Änderungen von Luca manuell in ihr Repository. An einem Abend erhält Charlie einen Anruf von Luca. Er ist völlig verzweifelt und erzählt ihr, dass er eine Änderung vorgenommen hat und nun das ganze Programm nicht mehr funktioniert. Er könne zwar die alten Dateien aus dem Dateiversionsverlauf von Boxdrop wieder herstellen, aber er habe die Übersicht verloren. Er möchte einfach wieder auf alten Stand vor seinen Änderungen zurück. Da Charlie schon länger lokal mit einem Git-Repository arbeitet, gibt sie ein paar Befehle in ihr Git-Bash Terminal ein und schickt Luca eine funktionierende Version als ZIP. Luca ist verblüfft wie schnell Charlie das hingekriegt hat. 
 
@@ -57,8 +54,6 @@ Mit Git Log
 
 ## Kapitel 4 - Git the Power Toy
 
-![Luca und Charlie Teil 3](images/LucaCharlieTeil4.PNG)
-
 Nach dem Fiasko hat sich Luca von Charlie überzeugen lassen, doch ein gemeinsames Repository auf GitLab zu erstellen. Seitdem arbeiten Luca und Charlie mit dem gemeinsamen Repository. Beide erstellen für jede Änderung (Funktionserweiterung, Bugfix, usw.) einen *Commit* und *pushen* ihre *Commits* auf das Repository. Teilweise müssen Sie zuerst die Änderungen des anderen *pullen* und die Änderungen *mergen*. Charlie hat nun eine neue Idee für die Quiz Applikation. Die neuen Funktionen haben aber fundamentale Änderungen mit vielen Umstrukturierungen zur Folge. 
 
 Welche Funktion von Git kann Charlie dabei helfen?
@@ -71,8 +66,6 @@ Sie können einen neuen Branch erstellen, indem Sie git checkout (Branch name) a
 ---
 
 ## Kapitel 5 - Organisation
-
-![Luca und Charlie Teil 3](images/LucaCharlieTeil5.PNG)
 
 Die Quiz Applikation gibt viel Aufwand und die beiden haben grosse Pläne. An den gemeinsamen Meetings halten sie ihre Ideen auf einem Notizzettel fest. Diesen fotografieren sie anschliessend und schicken den in ihren Gruppenchat "The super Quiz Gang". Jedoch haben die beiden Mühe eine Übersicht über die vielen geplanten Erweiterungen zu behalten. 
 
