@@ -17,7 +17,8 @@
   - 07 Deaktivieren Sie drahtlose Schnittstellen wenn sie sie nicht nutzen?
     - Nein mache ich nie und halte ich für unnötig.
 
-# Checklisten des Datenschutzbeauftragten des Kantons Zürichs
+
+
 
 # Checkliste Smartphone-Sicherheit erhöhen
  - Link: https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten
