@@ -83,8 +83,8 @@ Wie würden Luca und Charlie diese Funktion konkret verwenden?
 
 ---
 
-In GitHub kann man ["projects"](https://github.com/Arlind-dev/m231-portfolio/projects) brauchen, um zukünftige Features hinzuzufügen oder um Fehler zu beheben. <br>
-[Issues](https://github.com/Arlind-dev/m231-portfolio/issues) sind auch möglich, diese können auch von externen Benutzer erstellt werden.
+In GitHub kann man "Projects" brauchen, um zukünftige Features hinzuzufügen oder um Fehler zu beheben. <br>
+"Issues" sind auch möglich, diese können auch von externen Benutzer erstellt werden.
 
 
 ---
