@@ -18,3 +18,18 @@
   - 07 Deaktivieren Sie drahtlose Schnittstellen wenn sie sie nicht nutzen?
     - Nein mache ich nie und halte ich für unnötig.
 
+# Checklisten des Datenschutzbeauftragten des Kantons Zürichs
+
+# Checkliste Smartphone-Sicherheit erhöhen
+ - Link: https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten
+ - 01 Geben Sie nicht mehr persönliche Informationen preis als unbedingt nötig?
+    - Nein ich versuche so wenig wie möglich Information zu geben.
+ - 02 Führen Sie Sicherheitsupdates regelmässig durch (insbesondere von Windows, MacOS, Java, Adobe Flash und Adobe Reader)
+    - Nein ich mache nur Grafiktreiber und CPU Treiber Updates.
+ - 03 Verwenden Sie sichere Passwörter. Dabei hilft Passwortcheck.
+    - Ja seit Kurzem habe ich angefangen meine Passwörter zu ändern und sicherer zumachen.
+ - 04 Verschlüsseln Sie E-Mails mit sensitivem Inhalt.
+    - Falls ich solche Email hätte würde ich diese Verschlüsseln.
+ - 05 Führen Sie regelmässig Datensicherungen (Back-ups) durch. Anleitung für Windows und MacOS.
+    - Nein ich habe eine Cloud die mir alles Synchronisiert.
+  
