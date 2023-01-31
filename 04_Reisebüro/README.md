@@ -24,7 +24,7 @@ Welche Funktionen (Eigenschaften) von Git könnten Luca und Charlie bei Ihrem Pr
 
 ---
 
-Online Zusammenarbeit.
+Zusammenarbeiten Online
 
 ---
 
@@ -36,8 +36,7 @@ Charlie möchte gerne Git einsetzen. Doch Luca findet Git doof und will unbeding
 Mit welchen Sach-Argumenten könnte Charlie versuchen Luca zu überzeugen? Listen Sie entsprechende Argumente auf und belegen Sie Ihre Aussagen mit Quellenverweisen (Links). 
 
 ---
-
-Ist gratis, und man kann sich mit Software entwicklern unterhalten und gegenseitig Projekte bewerten.
+Man kann Gratis gegen seitig Projekte Supporten
 
 
 
