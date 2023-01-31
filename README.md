@@ -2,7 +2,7 @@
 
 
 # Inhaltsverzeichnis
- - [Lernjournal](/01_Lernjournal/)
- - [Meine Sicherheit](02_Sicherheit/)
- - [Passwortverwaltung](03_Passwortverwaltung/)
- - [Ablage- und Backupkonzept](04_Ablage-%20und%20Backupkonzept/)
+ - [Sicherheit](/01_Sicherheit/)
+ - [Passwortverwaltung](02_Passwortverwaltung/)
+ - [Einführung Versionverwaltung](03_Einführung-Versionverwaltung)
+ - [Reisebüro](/04_Reisebüro/)
