@@ -9,4 +9,4 @@
  - 03 Apps aus vertrauenswürdigen Quellen installieren
     - Nein Ich lade sowieso nichts Herunter, ich habe meistens meine Standart Apps.
  - 04 Nutzen Sie öffentliche Hotspots mit erhöhter Vorsicht?
-  Ja sobald ich nicht in meinem Netz oder im Schulnetz mache ich Logge ich mich Nirgends ein.
+    - Ja sobald ich nicht in meinem Netz oder im Schulnetz mache ich Logge ich mich Nirgends ein.
