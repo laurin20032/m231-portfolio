@@ -10,3 +10,11 @@
     - Nein Ich lade sowieso nichts Herunter, ich habe meistens meine Standart Apps.
  - 04 Nutzen Sie öffentliche Hotspots mit erhöhter Vorsicht?
     - Ja sobald ich nicht in meinem Netz oder im Schulnetz mache ich Logge ich mich Nirgends ein.
+    - - 01 Gerätesperren aktivieren
+ - 05 Kontrollieren Sie, ob es Sicherheitsupdates für Ihr Gerät (Firmware, Betriebssystem) oder für von Ihnen installierte Apps gibt?
+    - Nein ich habe automatische updates aktiviert. 
+ - 06 Verhindern Sie, dass Ihre gespeicherten Daten beim Verkauf oder bei der Entsorgung Ihres Gerätes in falsche Hände geraten?
+    - Ja wenn ich ein gerät entsorge nehme ich die Festplatte raus und schlage sie mit einem Hammer Kaputt.
+  - 07 Deaktivieren Sie drahtlose Schnittstellen wenn sie sie nicht nutzen?
+    - Nein mache ich nie und halte ich für unnötig.
+
